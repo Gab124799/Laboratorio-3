@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Laboratorio 3_7e45822f"
+    },
+    {
+      "type": "java",
+      "name": "TecniHogar",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "TecniHogar_VSCode",
+      "console": "integratedTerminal",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8"
+    }
+  ]
+}
